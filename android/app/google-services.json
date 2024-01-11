@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870894418611",
+    "firebase_url": "https://schbang-c29a7-default-rtdb.firebaseio.com",
+    "project_id": "schbang-c29a7",
+    "storage_bucket": "schbang-c29a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870894418611:android:06768f650adc002fc64ec6",
+        "android_client_info": {
+          "package_name": "com.example.schbang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870894418611-5e5kltomjnero5cusmjb419q78vdd7al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schbang",
+            "certificate_hash": "7b97e4d88468b4b33b9290d230d7b5e13a8eac1b"
+          }
+        },
+        {
+          "client_id": "870894418611-qi7b4vh2mdq3n1h4e634rhuc78tlfveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosScBfgilF75z5ucFx23m5OSzJ9pQFrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870894418611-qi7b4vh2mdq3n1h4e634rhuc78tlfveg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
